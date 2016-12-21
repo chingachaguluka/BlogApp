@@ -35,7 +35,7 @@ class PostsNew extends Component {
                         </div>
                     </div>
                     <button type="submit" className="btn btn-primary">Submit</button>
-                    <Link to="/" className="btn btn-danger">Back</Link> 
+                    <Link to="/" className="btn btn-danger">Cancel</Link> 
                 </form>    
             </div>
 
